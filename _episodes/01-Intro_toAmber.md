@@ -26,7 +26,7 @@ is due to how the configuration files for the pacakges.  For example when using 
 | GROMACS|                v-rescale           |
 | AMBER  |                ntt=3               |
 
-There are a total of 12 differenvet tempature control option from 0 to 11 and each are diffecenert ways to apply heat to a system. It is not the same 
+There are a total of 12 differnet tempature control option from 0 to 11 and each are diffecenert ways to apply heat to a system. It is not the same 
 for the other two that are being covered today since they each have a keyword for each type of thermostat. 
  
 **PS. if you really want to understand MD egengies this manual is one of the best to study from**
