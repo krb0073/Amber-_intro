@@ -31,3 +31,8 @@ Min !this is not read by the program
     cut=8.0 , ! The cutoff for electrostatics. do not makeb it smalller because of accuray but large is okay just takes longer but better resutls
    /
 ~~~
+
+If you can recall that the CHARMM cut-off is 12 not 8 which mean that the number of items in the pair list for this simulation would be smaller. The 12 cutoff used by CHARMM means that a large nu8mber of atoms are looked at for close range non-bonded interactions and the accruay would be better. The choice is yours unless one dose not have the atom parmeters that you would need.
+
+## running the minization 
+The enegine to run the simulation for amber is 
